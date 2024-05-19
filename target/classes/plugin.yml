@@ -1,0 +1,10 @@
+name: Vipinfo
+version: '1.0-SNAPSHOT'
+main: xenix133.vipinfo.Vipinfo
+api-version: '1.20'
+author: Xenix133
+commands:
+  vip:
+  vip+:
+    aliases: vipplus
+  svip:
